@@ -6,7 +6,7 @@ from groq import Groq
 #.venv\Scripts\activate.bat
 
 st.set_page_config(page_icon="💬", layout="wide",
-                   page_title="Groq Goes Brrrrrrrr...")
+                   page_title="Groq Goes Brrr...")
 
 
 def icon(emoji: str):
