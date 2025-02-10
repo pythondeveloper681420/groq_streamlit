@@ -1,3 +1,9 @@
+#pip freeze > requirements.txt
+#pip install -r requirements.txt
+#python -m venv .venv
+#.venv\Scripts\activate.bat
+#streamlit run app.py
+
 import streamlit as st
 from typing import Generator
 from groq import Groq
