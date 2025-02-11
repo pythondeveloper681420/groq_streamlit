@@ -2,7 +2,7 @@
 #pip install -r requirements.txt
 #python -m venv .venv
 #.venv\Scripts\activate.bat
-#streamlit run app.py
+#streamlit run streamlit_app.py
 
 import streamlit as st
 from typing import Generator
